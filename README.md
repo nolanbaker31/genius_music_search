@@ -58,7 +58,7 @@ Overall, the project works quite well. There are 2 primary issues in its current
 
 After the lists of lyrics are saved, the search is quite fast. I am happy about this as when I was using pandas it would take quite a long time, up to an hour.  
 
-<ins>Conclusion</ins>
+<ins>Conclusion</ins>  
 Overall, the music search program I have created is, while very simply, definitely useful. If users want to easily search through Genius’s list of music, without considering song names, this program could be more useful than their built-in search.   
 
 I am satisfied with my ranking, as it considers both the lyrics and descriptions. This means sometimes songs I wouldn’t expect to be retrieved top their searches. I have found new songs I’ve never heard of by testing my program.  
