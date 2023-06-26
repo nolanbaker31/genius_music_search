@@ -1,4 +1,6 @@
-# genius_music_search
+# Genius Music Search
+
+Project for CPEG457: Search and Data Mining
 A music search engine that searches through top artists from Genius.com's artists page with the intent of searching songs on lyrics &amp; 'vibe'. The program iterates through each artist, their top albums, and each song from the album &amp; scrapes the lyrics &amp; description using Beautiful Soup...  
 
 <ins> Motivation </ins>
